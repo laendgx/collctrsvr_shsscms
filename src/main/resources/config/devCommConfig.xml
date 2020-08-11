@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devCommCon>
+  <devece commId="1" devId="21240001" devIp="127.0.0.1" devPort="2222" devAddr="1"/>
+  <devece commId="2" devId="21240002" devIp="127.0.0.1" devPort="3333" devAddr="1"/>
+  <devece commId="3" devId="21240003" devIp="127.0.0.1" devPort="4444" devAddr="1"/>
+  <devece commId="4" devId="21240004" devIp="127.0.0.1" devPort="1000" devAddr="1"/>
+  <devece commId="5" devId="21240005" devIp="127.0.0.1" devPort="1001" devAddr="1"/>
+  <devece commId="6" devId="21240006" devIp="127.0.0.1" devPort="1002" devAddr="1"/>
+  <devece commId="7" devId="21240007" devIp="127.0.0.1" devPort="1003" devAddr="1"/>
+  <devece commId="8" devId="21240008" devIp="127.0.0.1" devPort="1004" devAddr="1"/>
+  <devece commId="9" devId="21240009" devIp="127.0.0.1" devPort="1005" devAddr="1"/>
+  <devece commId="10" devId="21250001" devIp="127.0.0.1" devPort="1006" devAddr="1"/>
+  <devece commId="11" devId="21250002" devIp="127.0.0.1" devPort="1007" devAddr="1"/>
+  <devece commId="12" devId="21250003" devIp="127.0.0.1" devPort="1008" devAddr="1"/>
+  <devece commId="13" devId="21250004" devIp="127.0.0.1" devPort="1009" devAddr="1"/>
+  <devece commId="14" devId="21250005" devIp="127.0.0.1" devPort="1010" devAddr="1"/>
+  <devece commId="15" devId="21250006" devIp="127.0.0.1" devPort="1011" devAddr="1"/>
+  <devece commId="16" devId="21250007" devIp="127.0.0.1" devPort="1012" devAddr="1"/>
+  <devece commId="17" devId="21250008" devIp="127.0.0.1" devPort="1013" devAddr="1"/>
+  <devece commId="18" devId="21250009" devIp="127.0.0.1" devPort="1014" devAddr="1"/>
+  <devece commId="19" devId="21250010" devIp="127.0.0.1" devPort="1015" devAddr="1"/>
+  <devece commId="20" devId="21250011" devIp="127.0.0.1" devPort="1016" devAddr="1"/>
+  <devece commId="21" devId="21250012" devIp="127.0.0.1" devPort="1017" devAddr="1"/>
+  <devece commId="22" devId="21250013" devIp="127.0.0.1" devPort="1018" devAddr="1"/>
+  <devece commId="23" devId="21250014" devIp="127.0.0.1" devPort="1019" devAddr="1"/>
+  <devece commId="24" devId="22210001" devIp="127.0.0.1" devPort="1020" devAddr="1"/>
+  <devece commId="25" devId="22210002" devIp="127.0.0.1" devPort="1021" devAddr="1"/>
+  <devece commId="26" devId="22210003" devIp="127.0.0.1" devPort="1022" devAddr="1"/>
+  <devece commId="27" devId="22210004" devIp="127.0.0.1" devPort="1023" devAddr="1"/>
+  <devece commId="28" devId="22210005" devIp="127.0.0.1" devPort="1024" devAddr="1"/>
+  <devece commId="29" devId="22210006" devIp="127.0.0.1" devPort="1025" devAddr="1"/>
+  <devece commId="30" devId="22210007" devIp="127.0.0.1" devPort="1026" devAddr="1"/>
+  <devece commId="31" devId="22210008" devIp="127.0.0.1" devPort="1027" devAddr="1"/>
+  <devece commId="32" devId="22210009" devIp="127.0.0.1" devPort="1028" devAddr="1"/>
+  <devece commId="33" devId="22210010" devIp="127.0.0.1" devPort="1029" devAddr="1"/>
+  <devece commId="34" devId="22210011" devIp="127.0.0.1" devPort="1030" devAddr="1"/>
+  <devece commId="35" devId="22210012" devIp="127.0.0.1" devPort="1031" devAddr="1"/>
+  <devece commId="36" devId="22210013" devIp="127.0.0.1" devPort="1032" devAddr="1"/>
+  <devece commId="37" devId="22210014" devIp="127.0.0.1" devPort="1033" devAddr="1"/>
+  <devece commId="38" devId="22210015" devIp="127.0.0.1" devPort="1034" devAddr="1"/>
+  <devece commId="39" devId="22210016" devIp="127.0.0.1" devPort="1035" devAddr="1"/>
+  <devece commId="40" devId="22210017" devIp="127.0.0.1" devPort="1036" devAddr="1"/>
+</devCommCon>
